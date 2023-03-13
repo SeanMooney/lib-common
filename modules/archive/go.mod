@@ -6,7 +6,7 @@ replace github.com/openstack-k8s-operators/lib-common/modules/common => ../commo
 
 require (
 	github.com/go-logr/logr v1.2.3
-	github.com/openstack-k8s-operators/lib-common/modules/common v0.0.0-00010101000000-000000000000
+	github.com/openstack-k8s-operators/lib-common/modules/common v0.0.0-20230313090133-d09a59219e9b
 	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d
 	k8s.io/api v0.25.4
 	k8s.io/apimachinery v0.25.4
@@ -18,9 +18,7 @@ require (
 	github.com/PuerkitoBio/purell v1.1.1 // indirect
 	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/emicklei/go-restful v2.9.5+incompatible // indirect
 	github.com/emicklei/go-restful/v3 v3.8.0 // indirect
-	github.com/evanphx/json-patch v4.12.0+incompatible // indirect
 	github.com/evanphx/json-patch/v5 v5.6.0 // indirect
 	github.com/go-openapi/jsonpointer v0.19.5 // indirect
 	github.com/go-openapi/jsonreference v0.19.5 // indirect

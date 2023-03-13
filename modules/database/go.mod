@@ -3,8 +3,8 @@ module github.com/openstack-k8s-operators/lib-common/modules/database
 go 1.19
 
 require (
-	github.com/openstack-k8s-operators/lib-common/modules/common v0.0.0-20220909175216-e774739df18a
-	github.com/openstack-k8s-operators/mariadb-operator/api v0.0.0-20220707171728-88a190b24296
+	github.com/openstack-k8s-operators/lib-common/modules/common v0.0.0-20230313090133-d09a59219e9b
+	github.com/openstack-k8s-operators/mariadb-operator/api v0.0.0-20230303135615-979250c54a27
 	k8s.io/apimachinery v0.25.4
 	sigs.k8s.io/controller-runtime v0.13.1
 )
